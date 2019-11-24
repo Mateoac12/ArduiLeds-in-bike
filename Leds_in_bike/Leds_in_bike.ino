@@ -8,7 +8,6 @@ const int ledPin = 13;
 
 volatile int TipoDeMatriz = 0;
 
-volatile int k=0;
 volatile int i=0;
 volatile int j=0;
 
